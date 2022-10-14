@@ -1,7 +1,8 @@
 package doctor.doctor.service;
 
-import com.usa.doctorsapp.model.Specialty;
-import com.usa.doctorsapp.repository.SpecialtyRepository;
+
+import doctor.doctor.model.Specialty;
+import doctor.doctor.repository.SpecialtyRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,7 +1,7 @@
 package doctor.doctor.service;
 
-import com.usa.doctorsapp.model.Message;
-import com.usa.doctorsapp.repository.MessageRepository;
+import doctor.doctor.model.Message;
+import doctor.doctor.repository.MessageRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

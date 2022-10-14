@@ -1,7 +1,7 @@
 package doctor.doctor.repository;
 
-import com.usa.doctorsapp.model.Client;
-import com.usa.doctorsapp.repository.crudRepository.ClientCrudRepository;
+import doctor.doctor.model.Client;
+import doctor.doctor.repository.crudRepository.ClientCrudRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

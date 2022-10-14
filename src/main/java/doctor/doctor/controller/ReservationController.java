@@ -1,8 +1,9 @@
 package doctor.doctor.controller;
 
 
-import com.usa.doctorsapp.model.Reservation;
-import com.usa.doctorsapp.service.ReservationService;
+
+import doctor.doctor.model.Reservation;
+import doctor.doctor.service.ReservationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

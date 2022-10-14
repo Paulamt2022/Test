@@ -1,7 +1,7 @@
 package doctor.doctor.controller;
 
-import com.usa.doctorsapp.model.Specialty;
-import com.usa.doctorsapp.service.SpecialtyService;
+import doctor.doctor.model.Specialty;
+import doctor.doctor.service.SpecialtyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

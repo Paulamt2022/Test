@@ -1,8 +1,8 @@
 package doctor.doctor.service;
 
 
-import com.usa.doctorsapp.model.Doctor;
-import com.usa.doctorsapp.repository.DoctorRepository;
+import doctor.doctor.model.Doctor;
+import doctor.doctor.repository.DoctorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

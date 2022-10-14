@@ -1,7 +1,8 @@
 package doctor.doctor.service;
 
-import com.usa.doctorsapp.model.Reservation;
-import com.usa.doctorsapp.repository.ReservationRepository;
+
+import doctor.doctor.model.Reservation;
+import doctor.doctor.repository.ReservationRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

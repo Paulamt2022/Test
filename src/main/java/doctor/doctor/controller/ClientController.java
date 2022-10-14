@@ -1,7 +1,8 @@
 package doctor.doctor.controller;
 
-import com.usa.doctorsapp.model.Client;
-import com.usa.doctorsapp.service.ClientService;
+
+import doctor.doctor.model.Client;
+import doctor.doctor.service.ClientService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

@@ -1,7 +1,8 @@
 package doctor.doctor.repository;
 
-import com.usa.doctorsapp.model.Message;
-import com.usa.doctorsapp.repository.crudRepository.MessageCrudRepository;
+
+import doctor.doctor.model.Message;
+import doctor.doctor.repository.crudRepository.MessageCrudRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

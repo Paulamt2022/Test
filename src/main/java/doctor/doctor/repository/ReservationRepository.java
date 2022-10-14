@@ -1,7 +1,7 @@
 package doctor.doctor.repository;
 
-import com.usa.doctorsapp.model.Reservation;
-import com.usa.doctorsapp.repository.crudRepository.ReservationCrudRepository;
+import doctor.doctor.model.Reservation;
+import doctor.doctor.repository.crudRepository.ReservationCrudRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
